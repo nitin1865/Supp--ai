@@ -1,0 +1,17 @@
+# 🔐 Secrets
+.env
+firebase_key.json
+
+# 🐍 Python
+__pycache__/
+*.pyc
+
+# 📓 Notebook cache
+.ipynb_checkpoints/
+
+# 💻 OS junk
+.DS_Store
+Thumbs.db
+
+# 📦 Virtualenv
+venv/
